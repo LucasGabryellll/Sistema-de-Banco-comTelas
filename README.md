@@ -1,5 +1,5 @@
 # 💻 Sistema de Um Banco Com Tela
-- Projeto Feito Com a Estrutura de Software MVC.
+- Projeto Feito Com a Arquitetura de Software MVC.
 
 
 ![](https://github.com/LucasGabryellll/Sistema-de-Banco-comTelas/blob/master/diagrama/Telas.png)
