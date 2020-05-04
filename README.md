@@ -12,7 +12,7 @@
 - VIEW: parte visual da aplicação.
 
 - CONTROLLER: controla as operações do model e
-              atualiza a view com as operações alteradas
+              atualiza a view com as operações alteradas.
 
 
 ## 🚀 Desenvolvido com a Seguinte Tecnologia:
