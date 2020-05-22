@@ -15,5 +15,6 @@
               atualiza a view com as operações alteradas.
 
 
-## 🚀 Desenvolvido com a Seguinte Tecnologia:
+## 🚀 Tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Java
